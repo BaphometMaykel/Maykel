@@ -1,0 +1,15 @@
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\bin\Debug\net8.0\Activity2.exe
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\bin\Debug\net8.0\Activity2.deps.json
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\bin\Debug\net8.0\Activity2.runtimeconfig.json
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\bin\Debug\net8.0\Activity2.dll
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\bin\Debug\net8.0\Activity2.pdb
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfoInputs.cache
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfo.cs
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\Activity2.csproj.CoreCompileInputs.cache
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\Activity2.sourcelink.json
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\Activity2.dll
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\refint\Activity2.dll
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\Activity2.pdb
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\Activity2.genruntimeconfig.cache
+D:\Maykel\Maykel\Activiy2\Activity2\Activity2\obj\Debug\net8.0\ref\Activity2.dll
